@@ -1,0 +1,7 @@
+--Only run once
+
+DROP DATABASE IF EXISTS financr;
+CREATE DATABASE financr;
+
+DROP DATABASE IF EXISTS testdb;
+CREATE DATABASE testdb;
